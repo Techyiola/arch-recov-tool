@@ -68,7 +68,3 @@ PRs welcome, especially new check functions! Each check should be:
 This tool is provided as-is. It's diagnostic only and does not modify your
 system, but always make sure you have backups before troubleshooting a
 broken install.
-
-## License
-
-GPLv3 — see [LICENSE](LICENSE).
